@@ -5,3 +5,4 @@ scikit-learn
 yfinance
 tensorflow
 python-3.10.13
+python-3.10.13
