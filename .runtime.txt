@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+scikit-learn
+yfinance
+tensorflow
+python-3.10.13
